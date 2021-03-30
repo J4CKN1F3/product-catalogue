@@ -1,18 +1,19 @@
-# Cara menjalankan di localhost
+# How to run in localhost
 
-### Prasyarat :
+### Requirements :
 
-Pastikan Node JS sudah terinstall (rekomendasi versi LTS).
+Install Node JS (LTS version)
+https://nodejs.org/en/
 
-### Langkah-langkah
+### Step by Step
 
-1. Download, lalu extrak file zip
-2. Masuk ke folder hasil extrak, lalu buka terminal di sini (di Windows tahan shift + klik kanan, open cmd/powershell window)
-3. Jalankan perintah `npm install` untuk menginstall package yang dibutuhkan (sesuai yang ada di package.json)
-4. Rename file `.env.example` menjadi `.env`
-5. Isi URL hasil publish dari google sheet ke variabel yang sudah ada di file `.env`
-6. Terakhir jalankan aplikasi menggunakan `npm run start`
+1. Download the file, and extract it.
+2. Open the terminal (SHIFT + right Click > open CMD/Powershell Windows)
+3. Input 'NPM install' to install the package (as in package.json)
+4. rename '.env.example' to '.env'
+5. Input Google Sheet API ID (which already published and shared)
+6. Run application with 'npm run start'
 
-# Struktur File
+# File Structure
 
 ![Struktur](https://i.ibb.co/CsPXtL9/struktur.png)
