@@ -12,7 +12,7 @@ function Header() {
           fontWeight="normal"
           fontSize={{ base: "4xl", md: "5xl" }}
         >
-          2021 spring& summer SHISEI STOCK BOOK
+          2021 Spring & Summer SHISEI STOCK BOOK
         </Heading>
       </Container>
     </>
