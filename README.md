@@ -13,7 +13,3 @@ https://nodejs.org/en/
 4. rename '.env.example' to '.env'
 5. Input Google Sheet API ID (which already published and shared)
 6. Run application with 'npm run start'
-
-# File Structure
-
-![Struktur](https://i.ibb.co/CsPXtL9/struktur.png)
